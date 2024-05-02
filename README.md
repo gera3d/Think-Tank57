@@ -39,6 +39,12 @@ Our initial target includes SMEs within the marketing and e-commerce spheres, wi
 
 The PersonaAI Platform is a cutting-edge SaaS solution that provides dynamic, AI-generated customer personas. Key features include seamless integration with business data sources, real-time persona updates, strict privacy controls, and ethical data handling practices. Our subscription model is designed to accommodate businesses of all sizes.
 
+### Extra Features
+
+Once a persona is created, you will be able to estimate the market size that exists around this customer based on keyword search data. This will keep you from building a product that does not have demand.
+
+You will also be able to estimate the revenue opportunity by looking at the AdWords spent on the related keywords.
+
 ### Marketing and Sales Strategy:
 
 PersonaAI positions itself as the premier, privacy-conscious customer persona solution. Our marketing strategy leverages digital campaigns, content marketing, and partnerships to highlight the importance of deep customer insights.
