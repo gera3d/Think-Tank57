@@ -6,11 +6,29 @@
     <title>DealWithItDoge Community</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+      <style>
+        .circular-image {
+            width: 200px; /* Adjust the size as needed */
+            height: 200px; /* Adjust the size as needed */
+            border-radius: 50%;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .circular-image img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
 </head>
 <body class="bg-gray-50 text-gray-900">
     <!-- Hero Section -->
     <section class="bg-blue-600 text-white text-center py-20">
         <div class="container mx-auto">
+            <div class="circular-image">
+                <img src="dealwithit.webp" alt="Deal With It Doge">
+            </div>
             <h1 class="text-4xl md:text-6xl font-bold mb-4">Be Part of the DealWithItDoge Community</h1>
             <p class="text-xl md:text-2xl mb-8">Create, Share, and Laugh with the Funniest Memes</p>
             <p class="text-lg md:text-xl">Inspired by the Iconic "Deal With It" Meme</p>
