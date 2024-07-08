@@ -1,6 +1,6 @@
 Certainly! Here is the task specification in markdown format:
 
-```markdown
+
 # Task Specification: Integrating Perplexity API into Bubble
 
 ## Overview
@@ -158,7 +158,3 @@ This task involves integrating the Perplexity API into a Bubble application. The
     - Thoroughly test the integration in Bubble to ensure it meets your requirements.
     - Validate the accuracy and relevance of the API responses for your use case.
 
----
-
-By following this task specification, you can effectively integrate the Perplexity API into your Bubble application and achieve the desired outcomes. If you need further assistance or specific code examples, feel free to ask!
-```
